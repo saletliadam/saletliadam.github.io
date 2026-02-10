@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  background: #000; /* optional */
+}
+
+.long-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
